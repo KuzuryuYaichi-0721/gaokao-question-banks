@@ -1,0 +1,104 @@
+{
+  "name": "Beijing Gaokao Questions 2016–2026",
+  "repo": "gaokao-beijing-2016-2026",
+  "repo_url": "https://github.com/KuzuryuYaichi-0721/gaokao-beijing-2016-2026",
+  "file": "datasets/beijing-2016-2026-2588.json",
+  "count": 2588,
+  "sha256": "ce21f511d04726bbee1b0b9e97cbb92cb4e5957cf6a5a930eba217acf0e91912",
+  "license": "CC-BY-4.0",
+  "description": "Purchased Beijing compilation; 2016–2020 export plus 2021–2026 OCR.",
+  "sources": [
+    [
+      "beijing-2016-2020",
+      1600
+    ],
+    [
+      "beijing-ocr-batch",
+      988
+    ]
+  ],
+  "years": [
+    [
+      "2016",
+      513
+    ],
+    [
+      "2025",
+      468
+    ],
+    [
+      "2020",
+      413
+    ],
+    [
+      "2019",
+      268
+    ],
+    [
+      "2026",
+      243
+    ],
+    [
+      "2017",
+      211
+    ],
+    [
+      "2018",
+      195
+    ],
+    [
+      "2023",
+      182
+    ],
+    [
+      "2021",
+      43
+    ],
+    [
+      "2024",
+      39
+    ],
+    [
+      "2022",
+      13
+    ]
+  ],
+  "subjects": [
+    [
+      "英语",
+      770
+    ],
+    [
+      "物理",
+      288
+    ],
+    [
+      "数学",
+      271
+    ],
+    [
+      "化学",
+      267
+    ],
+    [
+      "语文",
+      262
+    ],
+    [
+      "生物",
+      215
+    ],
+    [
+      "地理",
+      185
+    ],
+    [
+      "历史",
+      176
+    ],
+    [
+      "政治",
+      154
+    ]
+  ]
+}

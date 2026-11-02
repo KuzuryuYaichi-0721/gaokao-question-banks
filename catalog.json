@@ -1,0 +1,305 @@
+{
+  "updatedAt": "2026-11-02",
+  "datasets": [
+    {
+      "name": "GaokaoCoach Full Question Bank",
+      "repo": "gaokao-question-bank-full",
+      "repo_url": "https://github.com/KuzuryuYaichi-0721/gaokao-question-bank-full",
+      "file": "datasets/full-6265.json",
+      "count": 6265,
+      "sha256": "722adf9ce8be1e8e099e2886c0313fa8807c9ab953df32d4ef94bafc2596ffb4",
+      "license": "CC-BY-4.0",
+      "description": "All current GaokaoCoach bank rows after removing blank/test data.",
+      "sources": [
+        [
+          "GAOKAO-Bench",
+          3500
+        ],
+        [
+          "beijing-2016-2020",
+          1600
+        ],
+        [
+          "beijing-ocr-batch",
+          988
+        ],
+        [
+          "xiaohongshu",
+          177
+        ]
+      ],
+      "years": [
+        [
+          "2016",
+          984
+        ],
+        [
+          "2020",
+          916
+        ],
+        [
+          "2019",
+          742
+        ],
+        [
+          "2017",
+          679
+        ],
+        [
+          "2025",
+          645
+        ],
+        [
+          "2018",
+          642
+        ],
+        [
+          "2023",
+          481
+        ],
+        [
+          "2021",
+          360
+        ],
+        [
+          "2022",
+          321
+        ],
+        [
+          "2024",
+          252
+        ],
+        [
+          "2026",
+          243
+        ]
+      ],
+      "subjects": [
+        [
+          "英语",
+          1678
+        ],
+        [
+          "数学",
+          1212
+        ],
+        [
+          "语文",
+          724
+        ],
+        [
+          "历史",
+          580
+        ],
+        [
+          "生物",
+          577
+        ],
+        [
+          "政治",
+          495
+        ],
+        [
+          "物理",
+          383
+        ],
+        [
+          "化学",
+          374
+        ],
+        [
+          "地理",
+          242
+        ]
+      ]
+    },
+    {
+      "name": "Beijing Gaokao Questions 2016–2026",
+      "repo": "gaokao-beijing-2016-2026",
+      "repo_url": "https://github.com/KuzuryuYaichi-0721/gaokao-beijing-2016-2026",
+      "file": "datasets/beijing-2016-2026-2588.json",
+      "count": 2588,
+      "sha256": "ce21f511d04726bbee1b0b9e97cbb92cb4e5957cf6a5a930eba217acf0e91912",
+      "license": "CC-BY-4.0",
+      "description": "Purchased Beijing compilation; 2016–2020 export plus 2021–2026 OCR.",
+      "sources": [
+        [
+          "beijing-2016-2020",
+          1600
+        ],
+        [
+          "beijing-ocr-batch",
+          988
+        ]
+      ],
+      "years": [
+        [
+          "2016",
+          513
+        ],
+        [
+          "2025",
+          468
+        ],
+        [
+          "2020",
+          413
+        ],
+        [
+          "2019",
+          268
+        ],
+        [
+          "2026",
+          243
+        ],
+        [
+          "2017",
+          211
+        ],
+        [
+          "2018",
+          195
+        ],
+        [
+          "2023",
+          182
+        ],
+        [
+          "2021",
+          43
+        ],
+        [
+          "2024",
+          39
+        ],
+        [
+          "2022",
+          13
+        ]
+      ],
+      "subjects": [
+        [
+          "英语",
+          770
+        ],
+        [
+          "物理",
+          288
+        ],
+        [
+          "数学",
+          271
+        ],
+        [
+          "化学",
+          267
+        ],
+        [
+          "语文",
+          262
+        ],
+        [
+          "生物",
+          215
+        ],
+        [
+          "地理",
+          185
+        ],
+        [
+          "历史",
+          176
+        ],
+        [
+          "政治",
+          154
+        ]
+      ]
+    },
+    {
+      "name": "GAOKAO-Bench Open 2016–2022",
+      "repo": "gaokao-question-bank",
+      "repo_url": "https://github.com/KuzuryuYaichi-0721/gaokao-question-bank",
+      "file": "datasets/open-2016-2022-2996.json",
+      "count": 2996,
+      "sha256": "e26492ded66f00cf5047389a7a1c5e6719f1e81f761ff4c7e848acdf09352039",
+      "license": "Apache-2.0",
+      "description": "Open benchmark subset with Apache-2.0 data.",
+      "sources": [
+        [
+          "GAOKAO-Bench",
+          2996
+        ]
+      ],
+      "years": [
+        [
+          "2020",
+          507
+        ],
+        [
+          "2019",
+          474
+        ],
+        [
+          "2016",
+          471
+        ],
+        [
+          "2017",
+          468
+        ],
+        [
+          "2018",
+          449
+        ],
+        [
+          "2021",
+          319
+        ],
+        [
+          "2022",
+          308
+        ]
+      ],
+      "subjects": [
+        [
+          "数学",
+          709
+        ],
+        [
+          "英语",
+          682
+        ],
+        [
+          "语文",
+          403
+        ],
+        [
+          "历史",
+          347
+        ],
+        [
+          "生物",
+          344
+        ],
+        [
+          "政治",
+          288
+        ],
+        [
+          "化学",
+          94
+        ],
+        [
+          "物理",
+          79
+        ],
+        [
+          "地理",
+          50
+        ]
+      ]
+    }
+  ]
+}
